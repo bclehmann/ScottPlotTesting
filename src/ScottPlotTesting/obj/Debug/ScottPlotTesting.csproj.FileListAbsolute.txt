@@ -1,0 +1,13 @@
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\obj\Debug\ScottPlotTesting.csprojAssemblyReference.cache
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\obj\Debug\ScottPlotTesting.csproj.CoreCompileInputs.cache
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlotTesting.exe.config
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlotTesting.exe
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlotTesting.pdb
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlot.Avalonia.dll
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlot.dll
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\System.Drawing.Common.dll
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlot.pdb
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\bin\Debug\ScottPlot.Avalonia.pdb
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\obj\Debug\ScottPlotTesting.csproj.CopyComplete
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\obj\Debug\ScottPlotTesting.exe
+C:\Users\benny\source\repos\ScottPlotTesting\src\ScottPlotTesting\obj\Debug\ScottPlotTesting.pdb
