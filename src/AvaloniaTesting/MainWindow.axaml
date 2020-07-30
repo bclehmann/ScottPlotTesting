@@ -6,8 +6,8 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaTesting.MainWindow"
         Title="AvaloniaTesting">
-	<Panel>
+	<StackPanel>
 		<TextBlock>Welcome to Avalonia!</TextBlock>
-		<a:AvaPlot Name="avaplot" />
-	</Panel>
+		<a:AvaPlot Name="avaplot" Height="600" Width="800" HorizontalAlignment="Left" />
+	</StackPanel>
 </Window>
