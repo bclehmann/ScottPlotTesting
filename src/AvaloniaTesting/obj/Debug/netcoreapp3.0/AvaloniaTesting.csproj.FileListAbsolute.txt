@@ -1,0 +1,4 @@
+C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Debug\netcoreapp3.0\AvaloniaTesting.csprojAssemblyReference.cache
+C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Debug\netcoreapp3.0\AvaloniaTesting.AssemblyInfoInputs.cache
+C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Debug\netcoreapp3.0\AvaloniaTesting.AssemblyInfo.cs
+C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Debug\netcoreapp3.0\AvaloniaTesting.csproj.CoreCompileInputs.cache
