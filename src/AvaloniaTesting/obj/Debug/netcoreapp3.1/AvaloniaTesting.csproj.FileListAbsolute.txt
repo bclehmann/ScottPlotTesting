@@ -80,5 +80,3 @@ C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Debug\netco
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Debug\netcoreapp3.1\AvaloniaTesting.csproj.CoreCompileInputs.cache
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Debug\netcoreapp3.1\ScottPlot.Control.dll
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Debug\netcoreapp3.1\ScottPlot.Control.pdb

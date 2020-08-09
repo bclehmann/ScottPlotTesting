@@ -1847,14 +1847,6 @@
             "fileVersion": "4.0.38.0"
           }
         }
-      },
-      "ScottPlot.Control/1.0.0.0": {
-        "runtime": {
-          "ScottPlot.Control.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -2948,11 +2940,6 @@
       "sha512": ""
     },
     "ScottPlot/4.0.38.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ScottPlot.Control/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
