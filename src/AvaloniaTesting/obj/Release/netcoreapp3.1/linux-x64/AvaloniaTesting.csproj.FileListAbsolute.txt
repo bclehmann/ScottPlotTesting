@@ -61,5 +61,3 @@ C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\net
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.dll
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.pdb
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.genruntimeconfig.cache
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.Control.dll
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.Control.pdb

@@ -6,8 +6,15 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaTesting.MainWindow"
         Title="AvaloniaTesting">
-	<StackPanel>
-		<TextBlock>Welcome to Avalonia!</TextBlock>
-		<a:AvaPlot Name="avaplot" Height="600" Width="800" HorizontalAlignment="Left" />
-	</StackPanel>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="1*"/>
+			<RowDefinition Height="1*"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="1*"/>
+		</Grid.ColumnDefinitions>
+		<TextBlock Grid.Row="0" Grid.Column="0">Welcome to Avalonia!</TextBlock>
+		<a:AvaPlot Name="avaplot" Grid.Row="1" Grid.Column="0"/>
+	</Grid>
 </Window>

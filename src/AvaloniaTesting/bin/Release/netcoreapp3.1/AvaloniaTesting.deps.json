@@ -12,7 +12,7 @@
           "Avalonia.Desktop": "0.9.11",
           "System.Drawing.Common": "4.7.0",
           "ScottPlot.Avalonia": "1.0.0.0",
-          "ScottPlot": "4.0.38.0"
+          "ScottPlot": "4.0.39.0"
         },
         "runtime": {
           "AvaloniaTesting.dll": {}
@@ -1840,19 +1840,11 @@
           }
         }
       },
-      "ScottPlot/4.0.38.0": {
+      "ScottPlot/4.0.39.0": {
         "runtime": {
           "ScottPlot.dll": {
-            "assemblyVersion": "4.0.38.0",
-            "fileVersion": "4.0.38.0"
-          }
-        }
-      },
-      "ScottPlot.Control/1.0.0.0": {
-        "runtime": {
-          "ScottPlot.Control.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "4.0.39.0",
+            "fileVersion": "4.0.39.0"
           }
         }
       }
@@ -2947,12 +2939,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ScottPlot/4.0.38.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ScottPlot.Control/1.0.0.0": {
+    "ScottPlot/4.0.39.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
