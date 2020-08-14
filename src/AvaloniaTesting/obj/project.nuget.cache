@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4eUgG/mTcMvMYKr+UAzW+5VJT/55LKmj7HRQH3RsbYVXqTodITyU7cgXgBNyYbIuqudqKWbG+OhVIH6bn+cemA==",
+  "dgSpecHash": "0zvhT5rVEqlBfEj69is+LWrZHZe8YJHsmZ22YJG4XtwQUFOc9MI7LVYM6hjWCuF2tNtDiv9Y8VIXxOj1a/kn0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\benny\\source\\repos\\ScottPlotTesting\\src\\AvaloniaTesting\\AvaloniaTesting.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,8 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\benny\\.nuget\\packages\\scottplot\\4.0.39\\scottplot.4.0.39.nupkg.sha512",
+    "C:\\Users\\benny\\.nuget\\packages\\scottplot.avalonia\\4.0.39\\scottplot.avalonia.4.0.39.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog\\2.5.0\\serilog.2.5.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog.sinks.debug\\1.0.0\\serilog.sinks.debug.1.0.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog.sinks.trace\\2.1.0\\serilog.sinks.trace.2.1.0.nupkg.sha512",

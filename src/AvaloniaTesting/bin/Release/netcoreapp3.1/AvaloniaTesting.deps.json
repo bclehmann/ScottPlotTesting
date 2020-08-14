@@ -10,9 +10,8 @@
         "dependencies": {
           "Avalonia": "0.9.11",
           "Avalonia.Desktop": "0.9.11",
-          "System.Drawing.Common": "4.7.0",
-          "ScottPlot.Avalonia": "1.0.0.0",
-          "ScottPlot": "4.0.39.0"
+          "ScottPlot.Avalonia": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
         },
         "runtime": {
           "AvaloniaTesting.dll": {}
@@ -627,6 +626,31 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
+      "ScottPlot/4.0.39": {
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ScottPlot.dll": {
+            "assemblyVersion": "4.0.39.0",
+            "fileVersion": "4.0.39.0"
+          }
+        }
+      },
+      "ScottPlot.Avalonia/4.0.39": {
+        "dependencies": {
+          "Avalonia": "0.9.11",
+          "Avalonia.Desktop": "0.9.11",
+          "ScottPlot": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {
+            "assemblyVersion": "4.0.39.0",
+            "fileVersion": "4.0.39.0"
+          }
+        }
+      },
       "Serilog/2.5.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.0.1",
@@ -1831,22 +1855,6 @@
             "fileVersion": "0.7.0.0"
           }
         }
-      },
-      "ScottPlot.Avalonia/1.0.0.0": {
-        "runtime": {
-          "ScottPlot.Avalonia.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "ScottPlot/4.0.39.0": {
-        "runtime": {
-          "ScottPlot.dll": {
-            "assemblyVersion": "4.0.39.0",
-            "fileVersion": "4.0.39.0"
-          }
-        }
       }
     }
   },
@@ -2198,6 +2206,20 @@
       "sha512": "sha512-VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
+    },
+    "ScottPlot/4.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F+Y3U/WyCbdIejRC3b7j917m4q6OkFqU/QnfxbqJ8KL25/iCpHQXjBnw2VOk6a64GQC+hzMY84OiDfkKjpR9cw==",
+      "path": "scottplot/4.0.39",
+      "hashPath": "scottplot.4.0.39.nupkg.sha512"
+    },
+    "ScottPlot.Avalonia/4.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hjICsXVc1XHZcVp7VPXq6jqwYQmsI3J5ZXJKwfsABjivuAfkddhaTTZt113Oz5VMu2xPBvfo5if4oaqaULQOzg==",
+      "path": "scottplot.avalonia/4.0.39",
+      "hashPath": "scottplot.avalonia.4.0.39.nupkg.sha512"
     },
     "Serilog/2.5.0": {
       "type": "package",
@@ -2933,16 +2955,6 @@
       "sha512": "sha512-tOidFxmHHALdPfwHP4iBZ3ojq5JXfUsuwO4QakZ5WnbYXLQI8xFWWwlhwGozHFl5PGkfd9W+PEzM+LISOFr9Bw==",
       "path": "tmds.dbus/0.7.0",
       "hashPath": "tmds.dbus.0.7.0.nupkg.sha512"
-    },
-    "ScottPlot.Avalonia/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ScottPlot/4.0.39.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

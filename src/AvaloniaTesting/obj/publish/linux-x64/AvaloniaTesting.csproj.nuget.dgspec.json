@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[0.9.11, )"
             },
+            "ScottPlot.Avalonia": {
+              "target": "Package",
+              "version": "[4.0.39, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[4.7.0, )"
@@ -71,7 +75,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[3.1.6, 3.1.6]"
+              "version": "[3.1.7, 3.1.7]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

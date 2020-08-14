@@ -791,6 +791,33 @@
           }
         }
       },
+      "ScottPlot/4.0.39": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/ScottPlot.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ScottPlot.dll": {}
+        }
+      },
+      "ScottPlot.Avalonia/4.0.39": {
+        "type": "package",
+        "dependencies": {
+          "Avalonia": "0.9.11",
+          "Avalonia.Desktop": "0.9.11",
+          "ScottPlot": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {}
+        }
+      },
       "Serilog/2.5.0": {
         "type": "package",
         "dependencies": {
@@ -3728,6 +3755,33 @@
         },
         "runtime": {
           "runtimes/unix/lib/netstandard1.5/System.Runtime.Extensions.dll": {}
+        }
+      },
+      "ScottPlot/4.0.39": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/ScottPlot.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ScottPlot.dll": {}
+        }
+      },
+      "ScottPlot.Avalonia/4.0.39": {
+        "type": "package",
+        "dependencies": {
+          "Avalonia": "0.9.11",
+          "Avalonia.Desktop": "0.9.11",
+          "ScottPlot": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {}
         }
       },
       "Serilog/2.5.0": {
@@ -7102,6 +7156,36 @@
         "runtime.unix.system.runtime.extensions.4.3.0.nupkg.sha512",
         "runtime.unix.system.runtime.extensions.nuspec",
         "runtimes/unix/lib/netstandard1.5/System.Runtime.Extensions.dll"
+      ]
+    },
+    "ScottPlot/4.0.39": {
+      "sha512": "F+Y3U/WyCbdIejRC3b7j917m4q6OkFqU/QnfxbqJ8KL25/iCpHQXjBnw2VOk6a64GQC+hzMY84OiDfkKjpR9cw==",
+      "type": "package",
+      "path": "scottplot/4.0.39",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.ico",
+        "icon.png",
+        "lib/netstandard2.0/ScottPlot.dll",
+        "scottplot.4.0.39.nupkg.sha512",
+        "scottplot.nuspec"
+      ]
+    },
+    "ScottPlot.Avalonia/4.0.39": {
+      "sha512": "hjICsXVc1XHZcVp7VPXq6jqwYQmsI3J5ZXJKwfsABjivuAfkddhaTTZt113Oz5VMu2xPBvfo5if4oaqaULQOzg==",
+      "type": "package",
+      "path": "scottplot.avalonia/4.0.39",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.ico",
+        "icon.png",
+        "lib/net461/ScottPlot.Avalonia.dll",
+        "lib/net472/ScottPlot.Avalonia.dll",
+        "lib/netcoreapp3.1/ScottPlot.Avalonia.dll",
+        "scottplot.avalonia.4.0.39.nupkg.sha512",
+        "scottplot.avalonia.nuspec"
       ]
     },
     "Serilog/2.5.0": {
@@ -12091,6 +12175,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Avalonia >= 0.9.11",
       "Avalonia.Desktop >= 0.9.11",
+      "ScottPlot.Avalonia >= 4.0.39",
       "System.Drawing.Common >= 4.7.0"
     ]
   },
@@ -12148,6 +12233,10 @@
             "target": "Package",
             "version": "[0.9.11, )"
           },
+          "ScottPlot.Avalonia": {
+            "target": "Package",
+            "version": "[4.0.39, )"
+          },
           "System.Drawing.Common": {
             "target": "Package",
             "version": "[4.7.0, )"
@@ -12166,7 +12255,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[3.1.6, 3.1.6]"
+            "version": "[3.1.7, 3.1.7]"
           }
         ],
         "frameworkReferences": {
@@ -12174,7 +12263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

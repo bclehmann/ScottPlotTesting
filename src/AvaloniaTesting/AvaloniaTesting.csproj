@@ -6,14 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="0.9.11" />
     <PackageReference Include="Avalonia.Desktop" Version="0.9.11" />
+    <PackageReference Include="ScottPlot.Avalonia" Version="4.0.39" />
     <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="ScottPlot">
-      <HintPath>..\..\..\ScottPlot\src\ScottPlot\bin\Debug\netstandard2.0\ScottPlot.dll</HintPath>
-    </Reference>
-    <Reference Include="ScottPlot.Avalonia">
-      <HintPath>..\..\..\ScottPlot\src\ScottPlot.Avalonia\bin\Debug\netcoreapp3.1\ScottPlot.Avalonia.dll</HintPath>
-    </Reference>
   </ItemGroup>
 </Project>

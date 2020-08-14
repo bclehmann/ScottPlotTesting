@@ -11,9 +11,8 @@
         "dependencies": {
           "Avalonia": "0.9.11",
           "Avalonia.Desktop": "0.9.11",
-          "System.Drawing.Common": "4.7.0",
-          "ScottPlot.Avalonia": "1.0.0.0",
-          "ScottPlot": "4.0.39.0"
+          "ScottPlot.Avalonia": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
         },
         "runtime": {
           "AvaloniaTesting.dll": {}
@@ -684,6 +683,31 @@
           "System.Private.Uri": "4.3.0",
           "runtime.native.System": "4.3.0",
           "runtime.native.System.Security.Cryptography.OpenSsl": "4.3.0"
+        }
+      },
+      "ScottPlot/4.0.39": {
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ScottPlot.dll": {
+            "assemblyVersion": "4.0.39.0",
+            "fileVersion": "4.0.39.0"
+          }
+        }
+      },
+      "ScottPlot.Avalonia/4.0.39": {
+        "dependencies": {
+          "Avalonia": "0.9.11",
+          "Avalonia.Desktop": "0.9.11",
+          "ScottPlot": "4.0.39",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ScottPlot.Avalonia.dll": {
+            "assemblyVersion": "4.0.39.0",
+            "fileVersion": "4.0.39.0"
+          }
         }
       },
       "Serilog/2.5.0": {
@@ -1879,22 +1903,6 @@
             "fileVersion": "0.7.0.0"
           }
         }
-      },
-      "ScottPlot.Avalonia/1.0.0.0": {
-        "runtime": {
-          "ScottPlot.Avalonia.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "ScottPlot/4.0.39.0": {
-        "runtime": {
-          "ScottPlot.dll": {
-            "assemblyVersion": "4.0.39.0",
-            "fileVersion": "4.0.39.0"
-          }
-        }
       }
     }
   },
@@ -2421,6 +2429,20 @@
       "sha512": "sha512-zQiTBVpiLftTQZW8GFsV0gjYikB1WMkEPIxF5O6RkUrSV/OgvRRTYgeFQha/0keBpuS0HYweraGRwhfhJ7dj7w==",
       "path": "runtime.unix.system.runtime.extensions/4.3.0",
       "hashPath": "runtime.unix.system.runtime.extensions.4.3.0.nupkg.sha512"
+    },
+    "ScottPlot/4.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F+Y3U/WyCbdIejRC3b7j917m4q6OkFqU/QnfxbqJ8KL25/iCpHQXjBnw2VOk6a64GQC+hzMY84OiDfkKjpR9cw==",
+      "path": "scottplot/4.0.39",
+      "hashPath": "scottplot.4.0.39.nupkg.sha512"
+    },
+    "ScottPlot.Avalonia/4.0.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hjICsXVc1XHZcVp7VPXq6jqwYQmsI3J5ZXJKwfsABjivuAfkddhaTTZt113Oz5VMu2xPBvfo5if4oaqaULQOzg==",
+      "path": "scottplot.avalonia/4.0.39",
+      "hashPath": "scottplot.avalonia.4.0.39.nupkg.sha512"
     },
     "Serilog/2.5.0": {
       "type": "package",
@@ -3163,16 +3185,6 @@
       "sha512": "sha512-tOidFxmHHALdPfwHP4iBZ3ojq5JXfUsuwO4QakZ5WnbYXLQI8xFWWwlhwGozHFl5PGkfd9W+PEzM+LISOFr9Bw==",
       "path": "tmds.dbus/0.7.0",
       "hashPath": "tmds.dbus.0.7.0.nupkg.sha512"
-    },
-    "ScottPlot.Avalonia/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ScottPlot/4.0.39.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

@@ -52,8 +52,6 @@ C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\net
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\libSkiaSharp.so
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.Avalonia.dll
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.dll
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.pdb
-C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\bin\Release\netcoreapp3.1\linux-x64\ScottPlot.Avalonia.pdb
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.AssemblyInfoInputs.cache
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.AssemblyInfo.cs
 C:\Users\benny\source\repos\ScottPlotTesting\src\AvaloniaTesting\obj\Release\netcoreapp3.1\linux-x64\AvaloniaTesting.csproj.CoreCompileInputs.cache

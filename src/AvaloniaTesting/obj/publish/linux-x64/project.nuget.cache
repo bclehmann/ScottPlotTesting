@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gaVWMfbC6GWZ3iTCdcMivsU8w1PaTFAi4MP1HWl4rq9yinyVhll5NyjPvgaLgDAuejOWrUtUY8kP/Rzj6fRhbw==",
+  "dgSpecHash": "ywHXW+vMyGW6/rm691gsUdus/rYSYIJJj3baqMol/7hy/wNp+lIg2joIeks653ETXjjKZDJxiaP4vJB4/rB6og==",
   "success": true,
   "projectFilePath": "C:\\Users\\benny\\source\\repos\\ScottPlotTesting\\src\\AvaloniaTesting\\AvaloniaTesting.csproj",
   "expectedPackageFiles": [
@@ -78,6 +78,8 @@
     "C:\\Users\\benny\\.nuget\\packages\\runtime.unix.system.net.sockets\\4.3.0\\runtime.unix.system.net.sockets.4.3.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\runtime.unix.system.private.uri\\4.3.0\\runtime.unix.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\runtime.unix.system.runtime.extensions\\4.3.0\\runtime.unix.system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\benny\\.nuget\\packages\\scottplot\\4.0.39\\scottplot.4.0.39.nupkg.sha512",
+    "C:\\Users\\benny\\.nuget\\packages\\scottplot.avalonia\\4.0.39\\scottplot.avalonia.4.0.39.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog\\2.5.0\\serilog.2.5.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog.sinks.debug\\1.0.0\\serilog.sinks.debug.1.0.0.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\serilog.sinks.trace\\2.1.0\\serilog.sinks.trace.2.1.0.nupkg.sha512",
@@ -186,7 +188,7 @@
     "C:\\Users\\benny\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
     "C:\\Users\\benny\\.nuget\\packages\\tmds.dbus\\0.7.0\\tmds.dbus.0.7.0.nupkg.sha512",
-    "C:\\Users\\benny\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.6\\microsoft.netcore.app.host.linux-x64.3.1.6.nupkg.sha512"
+    "C:\\Users\\benny\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.7\\microsoft.netcore.app.host.linux-x64.3.1.7.nupkg.sha512"
   ],
   "logs": []
 }

@@ -31,8 +31,8 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\Microsoft.Win32.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\netstandard.dll
-C:\Users\benny\source\repos\ScottPlot\src\ScottPlot.Avalonia\bin\Debug\netcoreapp3.1\ScottPlot.Avalonia.dll
-C:\Users\benny\source\repos\ScottPlot\src\ScottPlot\bin\Debug\netstandard2.0\ScottPlot.dll
+C:\Users\benny\.nuget\packages\scottplot.avalonia\4.0.39\lib\netcoreapp3.1\ScottPlot.Avalonia.dll
+C:\Users\benny\.nuget\packages\scottplot\4.0.39\lib\netstandard2.0\ScottPlot.dll
 C:\Users\benny\.nuget\packages\serilog\2.5.0\lib\netstandard1.3\Serilog.dll
 C:\Users\benny\.nuget\packages\serilog.sinks.debug\1.0.0\lib\netstandard1.0\Serilog.Sinks.Debug.dll
 C:\Users\benny\.nuget\packages\serilog.sinks.trace\2.1.0\lib\netstandard1.3\Serilog.Sinks.Trace.dll
